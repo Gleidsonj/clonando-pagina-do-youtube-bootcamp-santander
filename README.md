@@ -8,10 +8,6 @@ Este projeto é uma recriação simplificada da interface do YouTube, desenvolvi
 - CSS3
 - Responsividade básica com Flexbox
 
-## 📸 Captura de Tela
-
-> ⚠️ (Opcional: você pode adicionar aqui uma imagem do projeto rodando em sua máquina com um print da tela ou um GIF.)
-
 ## 🎯 Objetivo do Projeto
 
 - Praticar a estruturação de páginas web com HTML;
